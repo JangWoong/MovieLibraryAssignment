@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "OA2SV1IEqMEsmMEmh5nwWbrJGZt7fM6jiAv9j/priNsl4GrEYQJ3eOQrjX8Gqs05l9pp5ZJM2weAomw8LN/13Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hyunk\\source\\WCTC\\MovieLibraryAssignment\\MovieLibraryAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hyunk\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\hyunk\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\hyunk\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\hyunk\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\hyunk\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\hyunk\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\hyunk\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\hyunk\\.nuget\\packages\\nlog\\5.2.4\\nlog.5.2.4.nupkg.sha512",
+    "C:\\Users\\hyunk\\.nuget\\packages\\nlog.extensions.logging\\5.3.4\\nlog.extensions.logging.5.3.4.nupkg.sha512",
+    "C:\\Users\\hyunk\\.nuget\\packages\\nlog.web.aspnetcore\\5.3.4\\nlog.web.aspnetcore.5.3.4.nupkg.sha512",
+    "C:\\Users\\hyunk\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\hyunk\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
